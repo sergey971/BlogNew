@@ -18,7 +18,7 @@
    <br>
    <a href="../model/about.php">Редактировать о нас</a> 
    <br>
-   <a href="#">Редактировать о блог постов</a> 
+   <a href="../model/post.php">Редактировать о блог постов</a> 
    <?php else:
    echo ' <h2>Вы хакер</h2>';
    echo '<a href="/php/">На главную</a>';
